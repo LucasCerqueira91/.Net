@@ -1,3 +1,3 @@
-# .Net
+# .CSharp
 Exercises applying C#
 
