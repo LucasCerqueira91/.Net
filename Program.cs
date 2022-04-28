@@ -7,7 +7,7 @@ namespace CycleApp1
         static void Main(string[] args)
         {
 
-            //  nhttps://elearn.assembly.pt/login/index.php
+            
             //           Application:
             //1. The application receives a number and returns the table of 5. User the for cycle;
 
