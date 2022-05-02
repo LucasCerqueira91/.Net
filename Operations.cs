@@ -62,7 +62,7 @@ namespace ConsoleApp2
             n3 = Convert.ToDouble(Console.ReadLine());
             n4 = Convert.ToDouble(Console.ReadLine());
             div1 = n1 / (n2 + n3 + n4);
-            div2 = n2 / (n2 + n3 + n4);
+            div2 = n2 / (n1 + n3 + n4);
             div3 = n3 / (n1 + n2 + n4);
             div4 = n4 / (n1 + n2 + n3);
             if (div1 < div2 && div1 < div3)
