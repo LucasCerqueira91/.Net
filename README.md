@@ -1,3 +1,3 @@
 # .CSharp
-Exercises applying C#
+Projects with  C#
 
